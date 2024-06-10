@@ -5,7 +5,7 @@ class Probabilities {
     }
 
     contact() {
-        const discord  = 'Socket#0002'
+        const discord  = '@shareholders'
         const telegram = 't.me/gaveaway'
         const email    = 'xmlrequest@proton.me'
         
@@ -31,5 +31,5 @@ class Probabilities {
     }
 }
 
-module.exports = Probabilities
+export default Probabilities
 ```
