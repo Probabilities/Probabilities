@@ -13,7 +13,7 @@ class Probabilities {
     }
 
     life() {
-        const age        = 19
+        const age        = 20
         const occupation = 'Freelance Software Developer'
         const hobbies    = [ 'Programming', 'Reverse Engineering', 'Reading' ]
         
